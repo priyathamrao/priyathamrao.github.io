@@ -1,0 +1,3 @@
+  _wrap: function(content) {
+      return '<div class="circles-wrp" style="position:relative; display:inline-block;">' + content + '</div>';
+    },
